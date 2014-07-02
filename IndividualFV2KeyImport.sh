@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#NOTE: This script is designed to work with the Casper Suite by JAMF Software
 ####################################################################################################
 #
 # DESCRIPTION
